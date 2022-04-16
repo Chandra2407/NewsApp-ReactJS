@@ -1,38 +1,40 @@
-.App {
-  text-align: center;
+.card{
+    margin: 1rem;
+    width: 60rem;
+    height: auto;
+    border-radius: 2rem;
+    overflow: hidden;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card img{
+    width: 100%;
+    height: 60%;
+    object-fit: cover;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.NewsComponent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.pagination{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding:1rem 2rem;
+}
+.pagination button{
+    font-size: 1.2rem;
+}
+.spinner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .spinner img{
+    z-index: 10;
+    width: 5rem;
   }
-  to {
-    transform: rotate(360deg);
+  .nav-item{
+      margin: 0 1rem;
   }
-}
