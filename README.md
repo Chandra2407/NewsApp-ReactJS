@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 ![App Screenshot](./snip.png)
-![App Screenshot](./snip1.png)
+![Demo](https://user-images.githubusercontent.com/49267139/163665726-3114f4c2-9c6b-4728-8df8-50299cc1f53f.png)
 
 ## Details
 
