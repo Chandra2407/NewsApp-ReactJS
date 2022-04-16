@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![App Screenshot](./snip.png)
 ![Demo](https://user-images.githubusercontent.com/49267139/163665726-3114f4c2-9c6b-4728-8df8-50299cc1f53f.png)
-
+![Demo](https://user-images.githubusercontent.com/49267139/163666211-141fca2b-c6e2-4078-896c-c0fc10da146d.gif)
 ## Details
 
 This project is made using HTML CSS and ReactJS
